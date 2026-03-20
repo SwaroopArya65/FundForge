@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/MERN-Stack-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Status-Active-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SRS_FILE-Know_About_Full_Project-pink?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GET_SRS_FILE-Bottom_of_This_Page-pink?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/License-MIT-orange?style=for-the-badge"/>
 </p>
 
